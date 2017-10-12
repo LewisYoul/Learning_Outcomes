@@ -1,12 +1,4 @@
-# Makers Academy - Learning Objectives
-
-This document contains my thoughts on the learning objectives for the Makers Academy Precourse.
-
-## Command Line
-
-To be finished.
-
-## Git and GitHub
+# Git and GitHub
 
 GitHub is a version control system (VCS). It allows you to upload your code to a remote repository, which in turn allows you to work on your code from anywhere!
 
